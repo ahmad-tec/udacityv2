@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./build s3://elasticbeanstalk-us-east-1-106587490927/ --profile default
+aws s3 cp --recursive --acl public-read ./build s3://my056670/ --profile default
