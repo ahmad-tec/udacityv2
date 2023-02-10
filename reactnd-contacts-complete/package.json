@@ -17,6 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "sh reactnd-contacts-complete/bin/deploy.sh"
+    "deploy": "sh /bin/deploy.sh"
   }
 }
