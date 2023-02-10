@@ -1,4 +1,4 @@
-const api = process.env.REACT_APP_CONTACTS_API_URL || 'http://testebbkend-dev.us-east-1.elasticbeanstalk.com'
+const api = process.env.REACT_APP_CONTACTS_API_URL || 'http://testEBnewv62-dev.us-east-1.elasticbeanstalk.com'
 
 let token = localStorage.token
 
